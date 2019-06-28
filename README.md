@@ -1,6 +1,8 @@
-# 操作方法
+# RasPiとiPod TouchをMQTTでつないでLチカ
 
-## RasPi側
+## 操作方法
+
+### RasPi側
 
 1. mosquiito が立ち上がっていること（serviceで立ち上がっているはず)
 
@@ -16,7 +18,7 @@
   $ ./mqtt-client.py
   ```
 
-## iPos側
+### iPos側
 
 1. WiFi接続
 2. `RaspiOperator` アプリを立ち上げる
