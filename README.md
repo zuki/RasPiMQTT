@@ -1,5 +1,7 @@
 # RasPiとiPod TouchをMQTTでつないでLチカ
 
+ソースは[\[GUIDE\] Communicate between iOS and Raspberry Pi using MQTT](https://www.raspberrypi.org/forums/viewtopic.php?f=37&t=196010&hilit=bluetooth+iOS&sid=4ae853ce600e4f9a88a5892f3ae83aeb)による
+
 ## 操作方法
 
 ### RasPi側
